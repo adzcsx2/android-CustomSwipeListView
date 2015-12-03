@@ -1,0 +1,2 @@
+# android-CustomSwipeListView
+如图所示类似微信左滑的ListView和右滑的侧栏
